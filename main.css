@@ -1,0 +1,55 @@
+/*
+fontes para o app
+font-family: 'Play', sans-serif;
+font-family: 'Permanent Marker', cursive;
+cores:
+marrom escuro - #281916
+verde médio - #1B521B
+verde claro - #6FA545
+amarelinho - #F5BC6B
+*/
+body{
+  background-color: #0D0704;
+  display: flex;
+  justify-content: center;
+  font-family: 'Play', sans-serif;
+}
+.container {
+  background-image: url(imgs/groot-img/groot___spores_by_megatruh-d7ysf32.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+  height: 100vh;
+  max-width: 414px;
+  max-height: 736px;
+  margin: auto;
+  justify-content: center;
+}
+.form{
+  width: 414px;
+  height: 400px;
+  padding: 10px;
+  color: #F5BC6B;
+  margin-top: 50px;
+}
+h1 {
+  padding: 10px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 35px;
+}
+.emailSenha{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.emailSenha input{
+  width: 300px;
+  margin-left: 6px;
+}
+.button{
+  background-color: #F5BC6B;
+  width: 200px;
+  margin: auto;
+  font-size: 20px;
+  color: #281916;
+}

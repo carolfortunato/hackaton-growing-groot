@@ -1,0 +1,48 @@
+/*
+fontes para o app
+font-family: 'Play', sans-serif;
+font-family: 'Permanent Marker', cursive;
+
+cores:
+verde escuro - #012010
+verde médio - #1B521B
+verde claro - #6FA545
+cinzinha clarinho - #C9E5AB
+amarelinho - #E3E06B
+
+*/
+body {
+  background-color: #281916;
+  color: #F5BC6B;
+}
+.main-gallery {
+  height: 100vh;
+  max-width: 414px;
+  max-height: 736px;
+  margin: auto;
+  font-family: 'Play', sans-serif;
+}
+.album-title {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 38px;
+  padding: 5px;
+}
+.sticker-img {
+  border: 4px solid #C9E5AB;
+  height: 180px;
+  width: 130px;
+  background-color: #012010;
+}
+.sticker-img img {
+  height: 100%;
+  width: 100%;
+}
+.visibility {
+  visibility: hidden;
+}
+.hero-name {
+  font-family: 'Permanent Marker', cursive;
+  color: #C9E5AB;
+  font-size: 20px;
+  height: 70px;
+}
