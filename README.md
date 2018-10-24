@@ -13,8 +13,8 @@ O jogo traz tarefas diárias e dicas de conscientização ambiental para deixar 
 
 ### Screenshot
 
-![screen shot](https://raw.githubusercontent.com/carolfortunato/the-foodmap/master/screenshot.png)
-![screen shot](https://raw.githubusercontent.com/carolfortunato/the-foodmap/master/screenshot.png)
+![screen shot 1](https://raw.githubusercontent.com/carolfortunato/the-foodmap/master/screenshot.png)
+![screen shot 2](https://raw.githubusercontent.com/carolfortunato/the-foodmap/master/screenshot.png)
 
 
 ### Desenvolvido para
