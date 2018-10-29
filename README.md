@@ -2,7 +2,7 @@ Growing Groot
 ==============
 
 Esse projeto foi desenvolvido no primeiro hackaton parte da grade curricular da Laboratoria. 
-Esse é um desafio de desenvolvimeto mobile que utiliza a API da Marvel e o Firebase.
+Esse é um desafio de desenvolvimento mobile que utiliza a API da Marvel e o Firebase.
 
 O jogo traz tarefas diárias e dicas de conscientização ambiental para deixar o Groot feliz. A cada subida de nível novos personagens da Marvel ficam disponíveis em seu álbum de figurinhas.
 
